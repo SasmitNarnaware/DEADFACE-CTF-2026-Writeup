@@ -1,0 +1,23 @@
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.venv
+venv/
+ENV/
+
+# Temporary and editor files
+*.tmp
+*.temp
+*.log
+.vscode/
+.idea/
+*.swp
+*.bak
