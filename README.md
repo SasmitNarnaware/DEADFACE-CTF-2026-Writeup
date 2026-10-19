@@ -31,6 +31,7 @@ DEADFACE-CTF-2026/
 
 | Category | Challenge Name | Problem Files | Solved Flag |
 |---|---|---|---|
+| **Cryptography** | [Infrequent Emojis](./Cryptography/infrequent-emojis/README.md) | `infrequent-emojis.png` | `deadface{please_try_out_my_new_standard}` |
 | **Cryptography** | [Second Shift](./Cryptography/second-shift/README.md) | `relay-heartbeat.enc`, `relay-heartbeat.json`, `relay-tasking.enc`, `solve.py` | `deadface{ctr_nonce_reuse_breaks_confidentiality}` |
 | **Database** | [Aurora Health Compromised Account](./Database/aurora-compromised-account/README.md) | *None (Remote MySQL)* | `deadface{kbhatt}` |
 | **Database** | [Heavy Hand](./Database/heavy-hand/README.md) | *None (Remote MySQL)* | `deadface{BR2938471}` |
